@@ -1,0 +1,190 @@
+[
+  {
+    "title": "From Frege to ChatGPT: Compositionality in language, cognition, and deep neural networks",
+    "authors": "Russin, J.*, McGrath, S. W.*, Williams, D.",
+    "journal": "Forthcoming in volume on neuroscience and philosophy",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2405.15164",
+    "category": "preprint"
+  },
+  {
+    "title": "The representational geometry of cognitive maps under dynamic cognitive control.",
+    "authors": "Park, S., Zolfaghar M.*, Russin, J.*, Boorman, E., O'Reilly, R.C.",
+    "journal": "Under review",
+    "year": 2022,
+    "url": "https://www.biorxiv.org/content/10.1101/2023.02.04.527142v2.abstract",
+    "category": "preprint"
+  },
+  {
+    "title": "Parallel trade-offs in human cognition and neural networks: The dynamic interplay between in-context and in-weight learning.",
+    "authors": "Russin, J., Pavlick, E., Frank M. J.",
+    "journal": "Proceedings of the National Academy of Sciences, 125(35).",
+    "year": 2025,
+    "url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2510270122",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "Step-by-step analogical reasoning in humans and neural networks",
+    "authors": "Russin, J.*, Kim, J., Pavlick, E., Frank M. J.",
+    "journal": "CogSci 2025",
+    "year": 2025,
+    "url": "https://escholarship.org/content/qt1n6366h7/qt1n6366h7.pdf",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "Multiple realizability and the rise of deep learning",
+    "authors": "McGrath, S. W., Russin, J.",
+    "journal": "CogSci 2024",
+    "year": 2024,
+    "url": "https://escholarship.org/uc/item/6nc0889w",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "Is human compositionality meta-learned?",
+    "authors": "Russin, J., McGrath, S. W., Pavlick, E., Frank, M. J.",
+    "journal": "Commentary in Behavioral and Brain Sciences",
+    "year": 2024,
+    "url": "https://doi.org/10.1017/S0140525X24000189",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "The relational bottleneck as an inductive bias for efficient abstraction",
+    "authors": "Webb T. W., Frankland, S. M., Altabaa, A., Krishnamurthy, K., Campbell, D., Russin, J., O'Reilly, R., Lafferty, J., Cohen, J. D.",
+    "journal": "Trends in Cognitive Sciences",
+    "year": 2024,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1364661324000809",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "How can deep neural networks inform theory in psychological science?",
+    "authors": "McGrath, S. W.*, Russin, J.*, Pavlick, E., Feiman, R.",
+    "journal": "Current Directions in Psychological Science",
+    "year": 2024,
+    "url": "https://doi.org/10.1177/09637214241268098",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "Properties of LoTs: The footprints or the bear itself?",
+    "authors": "McGrath, S. W.*, Russin, J.*, Pavlick, E., Feiman, R.",
+    "journal": "Commentary published in Behavioral and Brain Sciences.",
+    "year": 2023,
+    "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/properties-of-lots-the-footprints-or-the-bear-itself/855981FA9289B7FCEBC04D8E3EA89D0A",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "Systematicity emerges in transformers when abstract grammatical roles guide attention",
+    "authors": "Chakravarthy, A., Russin, J.*, O'Reilly, R.",
+    "journal": "NAACL SRW 2022",
+    "year": 2022,
+    "url": "https://aclanthology.org/2022.naacl-srw.1/",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "The geometry of map-like representations under dynamic cognitive control",
+    "authors": "Zolfaghar, M.*, Russin, J.*, Park, S.*, Boorman E., O'Reilly, R.",
+    "journal": "CogSci 2022",
+    "year": 2022,
+    "url": "https://escholarship.org/uc/item/28j425kf",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "A neural network model of continual learning with cognitive control",
+    "authors": "Russin, J., Zolfaghar, M., Park, S., Boorman, E., O'Reilly, R.",
+    "journal": "CogSci 2022.",
+    "year": 2022,
+    "url": "https://escholarship.org/uc/item/3gn3w58z",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "The structure of systematicity in the brain",
+    "authors": "O'Reilly, R. C., Ranganath, C., Russin, J.",
+    "journal": "Current Directions in Psychological Science",
+    "year": 2022,
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09637214211049233",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "Deep predictive learning with local gradient information",
+    "authors": "Russin, J., O'Reilly, R. C.",
+    "journal": "Abstract accepted as a poster presentation at Bernstein Conference 2021.",
+    "year": 2021,
+    "url": "https://abstracts.g-node.org/conference/BC21/abstracts#/uuid/5966a16f-d11c-4c7d-a20b-a583d6de5801",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "Complementary structure-learning neural networks for relational reasoning",
+    "authors": "Russin, J.*, Zolfaghar, M.*, Park, S., Boorman E., O'Reilly, R.",
+    "journal": "Proceedings of the 43rd Annual Meeting of the Cognitive Science Society, CogSci 2021",
+    "year": 2021,
+    "url": "https://arxiv.org/abs/2105.08944",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "Compositional processing emerges in neural networks solving math problems",
+    "authors": "Russin, J., Fernandez, R., Palangi, H., Rosen, E., Jojic, N., Smolensky, P., Gao, J.",
+    "journal": "Proceedings of the 43rd Annual Meeting of the Cognitive Science Society, CogSci 2021",
+    "year": 2021,
+    "url": "https://arxiv.org/abs/2105.08961",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "Deep predictive learning in neocortex and pulvinar",
+    "authors": "O'Reilly, R. C., Russin, J., Zolfaghar, M., Rohrlich, J.",
+    "journal": "Journal of Cognitive Neuroscience",
+    "year": 2021,
+    "url": "https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01708/98116/Deep-Predictive-Learning-in-Neocortex-and-Pulvinar",
+    "doi": "https://doi.org/10.1162/jocn_a_01708",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "Deep learning needs a prefrontal cortex",
+    "authors": "Russin, J., O'Reilly, R. C., Bengio, Y.",
+    "journal": "Bridging AI and Cognitive Science, ICLR 2020 Workshop",
+    "year": 2020,
+    "url": "https://baicsworkshop.github.io/pdf/BAICS_10.pdf",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "Systematicity in a recurrent neural network by factorizing syntax and semantics",
+    "authors": "Russin, J., Jo, J., O'Reilly, R. C., Bengio, Y.",
+    "journal": "Proceedings of the 42nd Annual Meeting of the Cognitive Science Society, CogSci 2020",
+    "year": 2020,
+    "url": "https://cognitivesciencesociety.org/cogsci20/papers/0027/0027.pdf",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "How sequential interactive processing within frontostriatal loops supports a continuum of habitual to controlled processing",
+    "authors": "O'Reilly, R. C., Nair, A., Russin, J., & Herd, S. A.",
+    "journal": "Frontiers in Psychology",
+    "year": 2020,
+    "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00380/full",
+    "doi": "https://doi.org/10.3389/fpsyg.2020.00380",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "Effects of the presence and absence of amino acids on translation, signaling and long‐term depression in hippocampal slices from Fmr1 knockout mice",
+    "authors": "Cooke, S. K., Russin, J., Moulton, K., Nadel, J., Loutaev, I., Gu, Q., Li, Z. and Smith, C. B.",
+    "journal": "Journal of Neurochemistry",
+    "year": 2019,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31539452/",
+    "doi": "https://doi.org/10.3389/fpsyg.2020.00380",
+    "category": "peer-reviewed"
+  },
+  {
+    "title": "Computational models of motivated frontal function",
+    "authors": "O'Reilly, R.C., Russin, J., & Herd, S.A.",
+    "journal": "In: D'Esposito M and Grafman JH, (eds). The Frontal Lobes. San Diego: Elsevier BV, 2019: 317-332",
+    "year": 2019,
+    "url": "https://www.sciencedirect.com/science/article/pii/B9780128042816000173?casa_token=AOqjOiCLOEcAAAAA:iT3dU__jjWAuOFpPqnDJ66yRCZJQ0NEItmVlNxx0otkbovasGpv_yvp2OPxgpBpWuasCy3qhKA",
+    "doi": "https://doi.org/10.1016/B978-0-12-804281-6.00017-3",
+    "category": "book-chapter"
+  },
+  {
+    "title": "Compositionality and cognitive control in neural networks",
+    "authors": "Russin, J.",
+    "journal": "[Doctoral Dissertation, University of California, Davis].",
+    "year": 2023,
+    "url": "https://www.proquest.com/openview/6a4a7d208a9514668bee950baabff9c1/1?pq-origsite=gscholar&cbl=18750&diss=y",
+    "category": "dissertation"
+  }
+]
