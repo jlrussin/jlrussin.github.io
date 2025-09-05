@@ -18,7 +18,7 @@
   {
     "title": "Parallel trade-offs in human cognition and neural networks: The dynamic interplay between in-context and in-weight learning.",
     "authors": "Russin, J., Pavlick, E., Frank M. J.",
-    "journal": "Proceedings of the National Academy of Sciences, 125(35).",
+    "journal": "Proceedings of the National Academy of Sciences",
     "year": 2025,
     "url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2510270122",
     "category": "peer-reviewed"
@@ -66,7 +66,7 @@
   {
     "title": "Properties of LoTs: The footprints or the bear itself?",
     "authors": "McGrath, S. W.*, Russin, J.*, Pavlick, E., Feiman, R.",
-    "journal": "Commentary published in Behavioral and Brain Sciences.",
+    "journal": "Commentary in Behavioral and Brain Sciences.",
     "year": 2023,
     "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/properties-of-lots-the-footprints-or-the-bear-itself/855981FA9289B7FCEBC04D8E3EA89D0A",
     "category": "peer-reviewed"
@@ -90,7 +90,7 @@
   {
     "title": "A neural network model of continual learning with cognitive control",
     "authors": "Russin, J., Zolfaghar, M., Park, S., Boorman, E., O'Reilly, R.",
-    "journal": "CogSci 2022.",
+    "journal": "CogSci 2022",
     "year": 2022,
     "url": "https://escholarship.org/uc/item/3gn3w58z",
     "category": "peer-reviewed"
@@ -106,7 +106,7 @@
   {
     "title": "Deep predictive learning with local gradient information",
     "authors": "Russin, J., O'Reilly, R. C.",
-    "journal": "Abstract accepted as a poster presentation at Bernstein Conference 2021.",
+    "journal": "Abstract accepted for poster presentation at Bernstein Conference 2021",
     "year": 2021,
     "url": "https://abstracts.g-node.org/conference/BC21/abstracts#/uuid/5966a16f-d11c-4c7d-a20b-a583d6de5801",
     "category": "peer-reviewed"
@@ -114,7 +114,7 @@
   {
     "title": "Complementary structure-learning neural networks for relational reasoning",
     "authors": "Russin, J.*, Zolfaghar, M.*, Park, S., Boorman E., O'Reilly, R.",
-    "journal": "Proceedings of the 43rd Annual Meeting of the Cognitive Science Society, CogSci 2021",
+    "journal": "CogSci 2021",
     "year": 2021,
     "url": "https://escholarship.org/uc/item/3hr31532",
     "category": "peer-reviewed"
@@ -122,7 +122,7 @@
   {
     "title": "Compositional processing emerges in neural networks solving math problems",
     "authors": "Russin, J., Fernandez, R., Palangi, H., Rosen, E., Jojic, N., Smolensky, P., Gao, J.",
-    "journal": "Proceedings of the 43rd Annual Meeting of the Cognitive Science Society, CogSci 2021",
+    "journal": "CogSci 2021",
     "year": 2021,
     "url": "https://escholarship.org/uc/item/1t64n1wx",
     "category": "peer-reviewed"
@@ -147,7 +147,7 @@
   {
     "title": "Systematicity in a recurrent neural network by factorizing syntax and semantics",
     "authors": "Russin, J., Jo, J., O'Reilly, R. C., Bengio, Y.",
-    "journal": "Proceedings of the 42nd Annual Meeting of the Cognitive Science Society, CogSci 2020",
+    "journal": "CogSci 2020",
     "year": 2020,
     "url": "https://cognitivesciencesociety.org/cogsci20/papers/0027/0027.pdf",
     "category": "peer-reviewed"
@@ -173,7 +173,7 @@
   {
     "title": "Computational models of motivated frontal function",
     "authors": "O'Reilly, R.C., Russin, J., & Herd, S.A.",
-    "journal": "In: D'Esposito M and Grafman JH, (eds). The Frontal Lobes. San Diego: Elsevier BV, 2019: 317-332",
+    "journal": "In: D'Esposito M and Grafman JH, (eds). The Frontal Lobes.",
     "year": 2019,
     "url": "https://www.sciencedirect.com/science/article/pii/B9780128042816000173?casa_token=AOqjOiCLOEcAAAAA:iT3dU__jjWAuOFpPqnDJ66yRCZJQ0NEItmVlNxx0otkbovasGpv_yvp2OPxgpBpWuasCy3qhKA",
     "doi": "https://doi.org/10.1016/B978-0-12-804281-6.00017-3",
